@@ -13,6 +13,7 @@ Feel free to suggest more projects. Only suggest projects you'd recommend to a f
   - [Messages](#messages)
   - [Utilities](#utilities)
 - [Mods](#mods)
+  - [Platforms](#platforms)
   - [Performance](#performance-mods)
 - [Plugins](#plugins)
   - [Anti-Cheating](#anti-cheating)
@@ -64,6 +65,12 @@ _Utilities that don't particularly belong in any other category._
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
 
 # Mods
+
+## Platforms
+_Modding platforms._
+
+- [Fabric](https://github.com/FabricMC/fabric) - Next generation, highly modular and open Minecraft modding API.
+- [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
 
 ## Performance Mods
 _Mods meant to increase game performance._
@@ -118,8 +125,8 @@ _Plugins that don't particularly fit in with any existing category._
 ## Permissions
 _Plugins for user permission management._
 
-- [LuckPerms](https://github.com/lucko/luckperms) - A permissions plugin for Minecraft servers.
 - [BungeePerms](https://github.com/weaondara/BungeePerms) - Alternative permissions plugin for Minecraft servers.
+- [LuckPerms](https://github.com/lucko/luckperms) - A permissions plugin for Minecraft servers.
 
 ## Region and World Management
 _Plugins for managing and generating world regions._
