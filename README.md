@@ -110,6 +110,7 @@ _Plugins for managing and generating world regions._
 - [Hyperverse](https://github.com/Incendo/Hyperverse) - A lightweight world mangement plugin for Bukkit.
 - [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core) - The original Bukkit Multi-World Plugin.
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared) - Plot world generator and management plugin with support for schematics.
+- [Prism-Bukkit](https://github.com/AddstarMC/Prism-Bukkit) - Prism is a rollback/grief management tool for Bukkit.
 - [WorldGuard](https://github.com/enginehub/worldguard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 
 # Resources
