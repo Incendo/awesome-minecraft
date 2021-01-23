@@ -1,19 +1,9 @@
-# awesome-minecraft [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Minecraft [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome frameworks, libraries and software relating to Minecraft. All software listed must be open sourced
 and available for free.
 
-## Legend 
-
-(B): Bukkit/Spigot/Paper\
-(F): Fabric\
-(M): Minecraft
-(N): NukkitX\
-(P): Paper Only\
-(S): Sponge\
-(V): Velocity
-
-## Contents
+# Contents
 
 - [Libraries and Frameworks](#libraries-and-frameworks)
   - [Commands](#commands)
@@ -22,6 +12,16 @@ and available for free.
   - [Performance](#performance)
 - [Software](#software)
   - [Server Software](#server-software)
+
+# Legend 
+
+(B): Bukkit/Spigot/Paper\
+(F): Fabric\
+(M): Minecraft
+(N): NukkitX\
+(P): Paper Only\
+(S): Sponge\
+(V): Velocity
 
 # Libraries and Frameworks
 
