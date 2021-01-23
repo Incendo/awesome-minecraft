@@ -122,7 +122,7 @@ _Plugins that don't particularly fit in with any existing category._
 ### Bukkit
 
 - [Citizens](https://github.com/CitizensDev/Citizens2) - Plugin and API for creating service side NPCs.
-- [Essentials](https://github.com/essentialsx/essentials) - The essential plugin suite for Bukkit servers.
+- [EssentialsX](https://github.com/EssentialsX/Essentials) - Plugin suite providing essential commands and features, updated for the latest Minecraft versions.
 - [ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support older Minecraft versions.
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 
