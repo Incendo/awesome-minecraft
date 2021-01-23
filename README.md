@@ -10,6 +10,7 @@ Feel free to suggest more projects. Only suggest projects you'd recommend to a f
 - [Libraries and Frameworks](#libraries-and-frameworks)
   - [Commands](#commands)
   - [Configuration](#configuration)
+  - [Inventories](#inventories)
   - [Messages](#messages)
   - [Utilities](#utilities)
 - [Mods](#mods)
@@ -47,6 +48,12 @@ _Libraries that make it easier to work with configuration files._
 
 - [Configurate](https://github.com/SpongePowered/Configurate/) - A simple configuration library for Java applications providing a node structure, a variety of formats, and tools for transformation.
 
+## Inventories
+_Libraries for creating Minecraft GUIs using inventories._
+
+- [IF](https://github.com/stefvanschie/IF) - An inventory framework for managing GUIs.
+- [InventoryGui](https://github.com/Phoenix616/InventoryGui) - A library for Bukkit plugins to create GUIs with inventories.
+
 ## Messages
 _Libraries that make it easier to work with messages, text, etc._
 
@@ -58,8 +65,10 @@ _Libraries that make it easier to work with messages, text, etc._
 ## Utilities
 _Utilities that don't particularly belong in any other category._
 
+- [adventure-nbt](https://github.com/KyoriPowered/adventure/tree/master/nbt) - Library for working with NBT.
 - [BKCommonLib](https://github.com/bergerhealer/BKCommonLib) - An extensive library used in bergerhealer's plugins.
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
+- [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
 - [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
@@ -170,3 +179,9 @@ _Minecraft server software._
 - [Purpur](https://github.com/pl3xgaming/Purpur) - Purpur is a fork of Paper and Tuinity with the goal of providing new and interesting configuration options, which allow for creating a unique gameplay experience not seen anywhere else.
 - [Sponge](https://github.com/SpongePowered/Sponge) - A community-driven open source Minecraft: Java Edition modding platform.
 - [Tuinity](https://github.com/spottedleaf/tuinity) - Fork of Paper aimed at improving server performance at high playercounts.
+
+## Tools
+_Miscellaneous tools._
+
+- [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
+- [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
