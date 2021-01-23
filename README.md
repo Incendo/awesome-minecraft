@@ -3,6 +3,8 @@
 A curated list of awesome frameworks, libraries and software relating to Minecraft. All software listed must be open sourced
 and available for free.
 
+Feel free to suggest more projects. Only suggest projects you'd recommend to a friend that you don't dislike.
+
 # Contents
 
 - [Libraries and Frameworks](#libraries-and-frameworks)
@@ -15,6 +17,7 @@ and available for free.
 - [Plugins](#plugins)
   - [Anti-Cheating](#anti-cheating)
   - [Building](#building)
+  - [Maps](#maps)
   - [Other](#other)
     - [Bukkit](#bukkit)
     - [Sponge](#sponge)
@@ -84,10 +87,17 @@ _Plugins that make building easier._
 - [Light-Cleaner](https://github.com/bergerhealer/Light-Cleaner) - Regenerates light levels in chunks or entire worlds to clean up dark spots. Continuation of NoLagg Lighting.
 - [WorldEdit](https://github.com/enginehub/worldedit) - Minecraft map editor and mod.
 
+## Maps
+_Map viewers._
+
+- [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
+- [dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
+
 ## Other
 _Plugins that don't particularly fit in with any existing category._
 
 - [NuVotifier](https://github.com/nuvotifier/NuVotifier) - A fork of Votifier, with more robust code and vote forwarding.
+- [Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface.
 - [Plan](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 
 ### Bukkit
