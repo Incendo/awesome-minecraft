@@ -163,6 +163,7 @@ _Blogs related to Minecraft._
 _Resources for Minecraft performance tuning._
 
 - [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) - G1GC Garbage Collector Flags for Minecraft.
+- [StartMC](https://startmc.sh/) - Aikars flags script generator.
 
 # Software
 
