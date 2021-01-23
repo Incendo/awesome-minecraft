@@ -75,6 +75,7 @@ _Modding platforms._
 ## Performance Mods
 _Mods meant to increase game performance._
 
+- [Krypton](https://github.com/astei/krypton) - A Fabric mod that optimizes the Minecraft networking stack and entity tracker.
 - [lazy-dfu](https://github.com/astei/lazydfu) - Makes Minecraft DataFixerUpper initializatiion lazy.
 - [lithium-fabric](https://github.com/jellysquid3/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things.
 - [phosphor-fabric](https://github.com/jellysquid3/phosphor-fabric) - A Fabric mod designed to dramatically improve the performance of Minecraft's lighting engine while fixing many bugs.
