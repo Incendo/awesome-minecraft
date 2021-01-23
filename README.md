@@ -94,6 +94,7 @@ _Plugins that don't particularly fit in with any existing category._
 
 - [Citizens](https://github.com/CitizensDev/Citizens2) - Plugin and API for creating service side NPCs.
 - [Essentials](https://github.com/essentialsx/essentials) - The essential plugin suite for Bukkit servers.
+- [ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support older Minecraft versions.
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 
 ### Sponge
@@ -112,6 +113,7 @@ _Plugins for user permission management._
 ## Region and World Management
 _Plugins for managing and generating world regions._
 
+- [BentoBox](https://github.com/BentoBoxWorld/BentoBox) - Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.
 - [Chunky](https://github.com/pop4959/Chunky) - Plugin for pre-generating chunks.
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/) - Prevents all forms of grief - build/break, theft, spam, spawn camping, and more without a database.
 - [Hyperverse](https://github.com/Incendo/Hyperverse) - A lightweight world mangement plugin for Bukkit.
