@@ -10,7 +10,7 @@ and available for free.
   - [Configuration](#configuration)
   - [Messages](#messages)
   - [Utilities](#utilities)
-- [Mods]
+- [Mods](#mods)
   - [Performance](#performance-mods)
 - [Plugins](#plugins)
   - [Anti-Cheating](#anti-cheating)
@@ -58,6 +58,7 @@ _Utilities that don't particularly belong in any other category._
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
 - [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
+- [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
 
 # Mods
 
@@ -85,6 +86,8 @@ _Plugins that make building easier._
 
 ## Other
 _Plugins that don't particularly fit in with any existing category._
+
+- [NuVotifier](https://github.com/nuvotifier/NuVotifier) - A fork of Votifier, with more robust code and vote forwarding.
 
 ### Bukkit
 
