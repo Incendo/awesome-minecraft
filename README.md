@@ -88,9 +88,11 @@ _Plugins that make building easier._
 _Plugins that don't particularly fit in with any existing category._
 
 - [NuVotifier](https://github.com/nuvotifier/NuVotifier) - A fork of Votifier, with more robust code and vote forwarding.
+- [Plan](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 
 ### Bukkit
 
+- [Citizens](https://github.com/CitizensDev/Citizens2) - Plugin and API for creating service side NPCs.
 - [Essentials](https://github.com/essentialsx/essentials) - The essential plugin suite for Bukkit servers.
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 
@@ -110,6 +112,8 @@ _Plugins for user permission management._
 ## Region and World Management
 _Plugins for managing and generating world regions._
 
+- [Chunky](https://github.com/pop4959/Chunky) - Plugin for pre-generating chunks.
+- [GriefPrevention](https://github.com/TechFortress/GriefPrevention/) - Prevents all forms of grief - build/break, theft, spam, spawn camping, and more without a database.
 - [Hyperverse](https://github.com/Incendo/Hyperverse) - A lightweight world mangement plugin for Bukkit.
 - [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core) - The original Bukkit Multi-World Plugin.
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared) - Plot world generator and management plugin with support for schematics.
