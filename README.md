@@ -67,6 +67,7 @@ _Libraries that make it easier to work with messages, text, etc._
 _Utilities that don't particularly belong in any other category._
 
 - [adventure-nbt](https://github.com/KyoriPowered/adventure/tree/master/nbt) - Library for working with NBT.
+- [NBTStorage](https://github.com/playlegend/NBTStorage) - A small library for manipulating NBT data.
 - [BKCommonLib](https://github.com/bergerhealer/BKCommonLib) - An extensive library used in bergerhealer's plugins.
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
