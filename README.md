@@ -159,6 +159,11 @@ _Blogs related to Minecraft._
 
 - [Me4502](https://matthewmiller.dev/blog/) - Me4502's blog with frequent posts relating to Minecraft development and server ownership.
 
+## Support
+_Support Resources for Minecraft._
+
+- [Syscraft](https://syscraft.org) - [Subreddit](https://old.reddit.com/r/syscraft/), [Discord community](https://discord.gg/Dx6SSkx), and online resources for everyone involved in making Minecraft servers, from development to hosting to running servers.
+
 ## Performance
 _Resources for Minecraft performance tuning._
 
