@@ -119,6 +119,7 @@ _Plugins that don't particularly fit in with any existing category._
 _Plugins for user permission management._
 
 - [LuckPerms](https://github.com/lucko/luckperms) - A permissions plugin for Minecraft servers.
+- [BungeePerms](https://github.com/weaondara/BungeePerms) - Alternative permissions plugin for Minecraft servers.
 
 ## Region and World Management
 _Plugins for managing and generating world regions._
