@@ -54,6 +54,7 @@ _Libraries for creating Minecraft GUIs using inventories._
 
 - [IF](https://github.com/stefvanschie/IF) - An inventory framework for managing GUIs.
 - [InventoryGui](https://github.com/Phoenix616/InventoryGui) - A library for Bukkit plugins to create GUIs with inventories.
+- [SmartInvs](https://github.com/DeJayDev/SmartInvs) - Advanced Inventory API for your Minecraft plugins.
 
 ## Messages
 _Libraries that make it easier to work with messages, text, etc._
