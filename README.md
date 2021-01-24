@@ -72,6 +72,8 @@ _Utilities that don't particularly belong in any other category._
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
 - [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
+- [SchematicJS](https://github.com/EngineHub/SchematicJS/) - JavaScript library for working with Minecraft schematics.
+- [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer/) - Renders Minecraft schematics into a web canvas.
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
 
 # Mods
@@ -122,6 +124,7 @@ _Plugins that don't particularly fit in with any existing category._
 ### Bukkit
 
 - [Citizens](https://github.com/CitizensDev/Citizens2) - Plugin and API for creating service side NPCs.
+- [CraftBook](https://enginehub.org/craftbook/) - Plugin that adds many new fun mechanics to the game with extreme levels of customisability.
 - [EssentialsX](https://github.com/EssentialsX/Essentials) - Plugin suite providing essential commands and features, updated for the latest Minecraft versions.
 - [ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support older Minecraft versions.
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
@@ -157,7 +160,7 @@ _Plugins for managing and generating world regions._
 ## Blogs
 _Blogs related to Minecraft._
 
-- [Me4502](https://matthewmiller.dev/blog/) - Me4502's blog with frequent posts relating to Minecraft development and server ownership.
+- [Me4502](https://matthewmiller.dev/blog/category/minecraft/) - Me4502's blog with frequent posts relating to Minecraft development and server ownership.
 
 ## Support
 _Support Resources for Minecraft._
