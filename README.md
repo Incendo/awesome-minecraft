@@ -32,6 +32,7 @@ Feel free to suggest more projects. Only suggest projects you'd recommend to a f
   - [Tools](#tools)
   - [Proxy Software](#proxy-software)
   - [Server Software](#server-software)
+  - [Server Management Software](#Server-Management-Software)
 
 # Libraries and Frameworks
 
@@ -48,6 +49,7 @@ _Libraries that aid in the creation of Minecraft commands._
 _Libraries that make it easier to work with configuration files._
 
 - [Configurate](https://github.com/SpongePowered/Configurate/) - A simple configuration library for Java applications providing a node structure, a variety of formats, and tools for transformation.
+- [Simplix Storage](https://github.com/Simplix-Softworks/SimplixStorage) - A fast library for bukkit and non-bukkit applications for the YAML, JSON and HOCON format.
 
 ## Inventories
 _Libraries for creating Minecraft GUIs using inventories._
