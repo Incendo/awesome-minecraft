@@ -67,9 +67,9 @@ _Libraries that make it easier to work with messages, text, etc._
 ## Protocol
 _Libraries for interacting with the minecraft protocol._
 
+- [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - MCProtocolLib is a simple library for communicating with a Minecraft client/server. It aims to allow people to make custom bots, clients, or servers for Minecraft easily.
 - [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
-- [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - MCProtocolLib is a simple library for communicating with a Minecraft client/server. It aims to allow people to make custom bots, clients, or servers for Minecraft easily.
 
 ## Utilities
 _Utilities that don't particularly belong in any other category._
@@ -171,10 +171,10 @@ _Blogs related to Minecraft._
 ## Support
 _Support Resources for Minecraft._
 
-- [Syscraft](https://syscraft.org) - [Subreddit](https://old.reddit.com/r/syscraft/), [Discord community](https://discord.gg/Dx6SSkx), and online resources for everyone involved in making Minecraft servers, from development to hosting to running servers.
 - [HelpChat](https://helpch.at) - [Discord](https://helpch.at/discord): home of PlaceholderAPI and several other plugins, along with general minecraft and programming support.
 - [PaperMC](https://papermc.io) - [Discord](https://discord.gg/papermc), [Forums](https://papermc.io/forums/): official home of the paper project, where you can download paper, and receive support.
 - [M.O.S.S.](https://discord.gg/PHpuzZS): home to a ton of open source, minecraft related projects (including factions, essentials, pex, and more).
+- [Syscraft](https://syscraft.org) - [Subreddit](https://old.reddit.com/r/syscraft/), [Discord community](https://discord.gg/Dx6SSkx), and online resources for everyone involved in making Minecraft servers, from development to hosting to running servers.
 
 ## Performance
 _Resources for Minecraft performance tuning._
@@ -205,5 +205,5 @@ _Minecraft server software._
 _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
-- [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+- [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
