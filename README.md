@@ -12,8 +12,8 @@ Feel free to suggest more projects. Only suggest projects you'd recommend to a f
   - [Configuration](#configuration)
   - [Inventories](#inventories)
   - [Messages](#messages)
-  - [Utilities](#utilities)
   - [Protocol](#protocol)
+  - [Utilities](#utilities)
 - [Mods](#mods)
   - [Platforms](#platforms)
   - [Performance](#performance-mods)
@@ -78,10 +78,10 @@ _Utilities that don't particularly belong in any other category._
 - [BKCommonLib](https://github.com/bergerhealer/BKCommonLib) - An extensive library used in bergerhealer's plugins.
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
+- [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [SchematicJS](https://github.com/EngineHub/SchematicJS/) - JavaScript library for working with Minecraft schematics.
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer/) - Renders Minecraft schematics into a web canvas.
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
-- [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 
 # Mods
 
@@ -104,7 +104,6 @@ _Mods meant to increase game performance._
 
 ## Anti-Cheating
 
-- [AACAdditionPro](https://github.com/Photon-GitHub/AACAdditionPro) - An anticheat with nieche checks to cover cheats usually not covered by anticheats.
 - [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) - NoCheatPlus attempts to enforce "vanilla Minecraft" mechanics, as well as preventing players from abusing weaknesses in Minecraft or its protocol, making your server more safe.
 
 ## Building
@@ -173,8 +172,8 @@ _Blogs related to Minecraft._
 _Support Resources for Minecraft._
 
 - [HelpChat](https://helpch.at) - [Discord](https://helpch.at/discord): home of PlaceholderAPI and several other plugins, along with general minecraft and programming support.
-- [PaperMC](https://papermc.io) - [Discord](https://discord.gg/papermc), [Forums](https://papermc.io/forums/): official home of the paper project, where you can download paper, and receive support.
 - [M.O.S.S.](https://discord.gg/PHpuzZS): home to a ton of open source, minecraft related projects (including factions, essentials, pex, and more).
+- [PaperMC](https://papermc.io) - [Discord](https://discord.gg/papermc), [Forums](https://papermc.io/forums/): official home of the paper project, where you can download paper, and receive support.
 - [Syscraft](https://syscraft.org) - [Subreddit](https://old.reddit.com/r/syscraft/), [Discord community](https://discord.gg/Dx6SSkx), and online resources for everyone involved in making Minecraft servers, from development to hosting to running servers.
 
 ## Performance
