@@ -13,6 +13,7 @@ Feel free to suggest more projects. Only suggest projects you'd recommend to a f
   - [Inventories](#inventories)
   - [Messages](#messages)
   - [Utilities](#utilities)
+  - [Protocol](#protocol)
 - [Mods](#mods)
   - [Platforms](#platforms)
   - [Performance](#performance-mods)
@@ -63,6 +64,13 @@ _Libraries that make it easier to work with messages, text, etc._
 - [MineDown](https://github.com/Phoenix616/MineDown) - A MarkDown inspired markup library for Minecraft chat components.
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) - PlaceholderAPI is a plugin for Spigot servers that allows server owners to display information from various plugins with a uniform format.
 
+## Protocol
+_Libraries for interacting with the minecraft protocol._
+
+- [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - MCProtocolLib is a simple library for communicating with a Minecraft client/server. It aims to allow people to make custom bots, clients, or servers for Minecraft easily.
+- [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
+- [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
+
 ## Utilities
 _Utilities that don't particularly belong in any other category._
 
@@ -70,8 +78,6 @@ _Utilities that don't particularly belong in any other category._
 - [BKCommonLib](https://github.com/bergerhealer/BKCommonLib) - An extensive library used in bergerhealer's plugins.
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
-- [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
-- [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
 - [SchematicJS](https://github.com/EngineHub/SchematicJS/) - JavaScript library for working with Minecraft schematics.
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer/) - Renders Minecraft schematics into a web canvas.
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
@@ -166,12 +172,16 @@ _Blogs related to Minecraft._
 ## Support
 _Support Resources for Minecraft._
 
+- [HelpChat](https://helpch.at) - [Discord](https://helpch.at/discord): home of PlaceholderAPI and several other plugins, along with general minecraft and programming support.
+- [PaperMC](https://papermc.io) - [Discord](https://discord.gg/papermc), [Forums](https://papermc.io/forums/): official home of the paper project, where you can download paper, and receive support.
+- [M.O.S.S.](https://discord.gg/PHpuzZS): home to a ton of open source, minecraft related projects (including factions, essentials, pex, and more).
 - [Syscraft](https://syscraft.org) - [Subreddit](https://old.reddit.com/r/syscraft/), [Discord community](https://discord.gg/Dx6SSkx), and online resources for everyone involved in making Minecraft servers, from development to hosting to running servers.
 
 ## Performance
 _Resources for Minecraft performance tuning._
 
 - [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) - G1GC Garbage Collector Flags for Minecraft.
+- [Krusic22's Flags](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc/) - Optimized JDK11+ & ZGC flags for Minecraft servers.
 - [StartMC](https://startmc.sh/) - Aikars flags script generator.
 
 # Software
@@ -196,4 +206,5 @@ _Minecraft server software._
 _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
+- [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
