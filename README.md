@@ -191,6 +191,12 @@ _Minecraft server software._
 - [Sponge](https://github.com/SpongePowered/Sponge) - A community-driven open source Minecraft: Java Edition modding platform.
 - [Tuinity](https://github.com/spottedleaf/tuinity) - Fork of Paper aimed at improving server performance at high playercounts.
 
+## Server Management Software
+_Minecraft server management software_
+
+- [Subservers](https://github.com/ME1312/SubServers-2) - Server management software to manage large networks including multiple proxies.
+- [Cloudnet](https://github.com/CloudNetService/CloudNet-v3) - Server management software to primarily manage large minigame networks with lots of players and servers.
+
 ## Tools
 _Miscellaneous tools._
 
