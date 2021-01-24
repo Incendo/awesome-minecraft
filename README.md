@@ -77,6 +77,7 @@ _Utilities that don't particularly belong in any other category._
 - [SchematicJS](https://github.com/EngineHub/SchematicJS/) - JavaScript library for working with Minecraft schematics.
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer/) - Renders Minecraft schematics into a web canvas.
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
+- [Hemponomics](https://github.com/Hempfest/Hemponomics) - Vault like economy interface but more advanced.
 
 # Mods
 
