@@ -183,6 +183,7 @@ _Minecraft server proxy software._
 - [Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
 - [Velocity](https://github.com/velocitypowered/velocity) - A Minecraft server proxy with unparalleled server support, scalability, and flexibility.
 - [Waterfall](https://github.com/papermc/waterfall) - BungeeCord fork that aims to improve performance and stability.
+- [Travertine](https://github.com/PaperMC/Travertine) - Waterfall fork with extra protocols to allow 1.7 clients
 
 ## Server Software
 _Minecraft server software._
