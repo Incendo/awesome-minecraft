@@ -15,6 +15,7 @@ Feel free to suggest more projects. Only suggest projects you'd recommend to a f
   - [Protocol](#protocol)
   - [Utilities](#utilities)
 - [Mods](#mods)
+  - [Other](#other-mods)
   - [Platforms](#platforms)
   - [Performance](#performance-mods)
 - [Plugins](#plugins)
@@ -84,6 +85,11 @@ _Utilities that don't particularly belong in any other category._
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
 
 # Mods
+
+## Other Mods
+_Other mods._
+
+- [ReplayMod](https://github.com/ReplayMod/ReplayMod) - A Minecraft mod to record game sessions and replay them afterwards from any perspective.
 
 ## Platforms
 _Modding platforms._
