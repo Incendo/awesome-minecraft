@@ -195,7 +195,7 @@ _Minecraft server proxy software._
 ## Server Software
 _Minecraft server software._
 
-- [Nukkit](https://github.com/CloudburstMC/Nukkit) - Server software for Minecraft: Pocket Edition.
+- [Nukkit](https://github.com/CloudburstMC/Nukkit) - Server software for Minecraft: Bedrock Edition.
 - [Paper](https://github.com/papermc/paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
 - [Purpur](https://github.com/pl3xgaming/Purpur) - Purpur is a fork of Paper and Tuinity with the goal of providing new and interesting configuration options, which allow for creating a unique gameplay experience not seen anywhere else.
 - [Sponge](https://github.com/SpongePowered/Sponge) - A community-driven open source Minecraft: Java Edition modding platform.
