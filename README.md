@@ -56,6 +56,7 @@ _Libraries for creating Minecraft GUIs using inventories._
 
 - [IF](https://github.com/stefvanschie/IF) - An inventory framework for managing GUIs.
 - [InventoryGui](https://github.com/Phoenix616/InventoryGui) - A library for Bukkit plugins to create GUIs with inventories.
+- [Cirrus](https://github.com/Simplix-Softworks/Cirrus) - Platform independent versatile menus for Spigot and BungeeCord featuring IDEA tooling.
 
 ## Messages
 _Libraries that make it easier to work with messages, text, etc._
