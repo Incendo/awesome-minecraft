@@ -71,6 +71,7 @@ _Libraries for interacting with the minecraft protocol._
 - [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - MCProtocolLib is a simple library for communicating with a Minecraft client/server. It aims to allow people to make custom bots, clients, or servers for Minecraft easily.
 - [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
+- [Protocolize](https://github.com/Incendo/awesome-minecraft) - Provides read and write access to the Minecraft protocol with BungeeCord.
 
 ## Utilities
 _Utilities that don't particularly belong in any other category._
