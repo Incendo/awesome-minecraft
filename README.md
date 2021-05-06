@@ -175,7 +175,7 @@ _Plugins for managing and generating world regions._
 ## Blogs
 _Blogs related to Minecraft._
 
-- [Me4502](https://matthewmiller.dev/blog/category/minecraft/) - Me4502's blog with frequent posts relating to Minecraft development and server ownership.
+- [Me4502](https://madelinemiller.dev/blog/category/minecraft/) - Me4502's blog with frequent posts relating to Minecraft development and server ownership.
 
 ## Support
 _Support Resources for Minecraft._
