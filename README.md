@@ -29,11 +29,14 @@ Feel free to suggest more projects. Only suggest projects you'd recommend to a f
   - [Permissions](#permissions)
   - [Region Management](#region-and-world-management)
 - [Resources](#resources)
+  - [Blogs](#blogs)
+  - [Support](#support)
   - [Performance](#performance)
+  - [Content Management Systems](#content-management-systems)
 - [Software](#software)
-  - [Tools](#tools)
   - [Proxy Software](#proxy-software)
   - [Server Software](#server-software)
+  - [Tools](#tools)
 
 # Libraries and Frameworks
 
@@ -191,6 +194,13 @@ _Resources for Minecraft performance tuning._
 - [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) - G1GC Garbage Collector Flags for Minecraft.
 - [Krusic22's Flags](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc/) - Optimized JDK11+ & ZGC flags for Minecraft servers.
 - [StartMC](https://startmc.sh/) - Aikars flags script generator.
+
+## Content Management Systems
+_Content Management Systems supporting Minecraft._
+
+- [Azuriom](https://www.azuriom.com) - The next generation of gaming website for your server, used by hundreds of websites.
+- [MineWeb](https://mineweb.org) - MineWeb is a simple, feature-full and fast Minecraft CMS.
+- [TrixCMS](https://trixcms.eu) - A proprietary multi-gaming, powerful, fast, secured yet complete CMS for all your projects of game server!
 
 # Software
 
