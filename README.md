@@ -42,6 +42,7 @@ _Libraries that aid in the creation of Minecraft commands._
 
 - [ACF](https://github.com/aikar/commands) - Annotation based Java Command Dispatch Framework.
 - [Brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
+- [Chimera](https://github.com/Pante/chimera) - Command framework that does compile-time annotation processing and code generation for Bukkit plugins.
 - [Cloud](https://github.com/Incendo/Cloud) - Command framework & dispatcher for the JVM with support for builders, annotations and a Kotlin DSL.
 - [CommandAPI](https://github.com/JorelAli/CommandAPI) - A Bukkit-only API for the command UI introduced in Minecraft 1.13.
 - [Commodore](https://github.com/lucko/commodore) - Utility for using Minecraft's 1.13 'brigadier' library in Bukkit plugins.
