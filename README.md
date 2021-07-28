@@ -112,6 +112,7 @@ _Mods meant to increase game performance._
 ## Anti-Cheating
 
 - [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) - NoCheatPlus attempts to enforce "vanilla Minecraft" mechanics, as well as preventing players from abusing weaknesses in Minecraft or its protocol, making your server more safe.
+- [LibertyBans](https://github.com/A248/LibertyBans) - Cross-platform punishment plugin for Bukkit, Bungeecord, and Velocity expanding on vanilla ban options.
 
 ## Building
 _Plugins that make building easier._
@@ -125,6 +126,7 @@ _Map viewers._
 
 - [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
 - [dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
+- [pl3xmap](https://github.com/pl3xgaming/Pl3xMap) - High performance webmap for Bukkit-based server platforms aiming to be usable for navigation. No 3D views.
 - [Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface.
 
 ## Other
@@ -143,6 +145,7 @@ _Plugins that don't particularly fit in with any existing category._
 - [EssentialsX](https://github.com/EssentialsX/Essentials) - Plugin suite providing essential commands and features, updated for the latest Minecraft versions.
 - [ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support older Minecraft versions.
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+- [Harbor](https://github.com/nkomarn/Harbor) - A customizable sleep voting plugin for survival servers.
 
 ### Sponge
 
@@ -169,6 +172,8 @@ _Plugins for managing and generating world regions._
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared) - Plot world generator and management plugin with support for schematics.
 - [Prism-Bukkit](https://github.com/AddstarMC/Prism-Bukkit) - Prism is a rollback/grief management tool for Bukkit.
 - [WorldGuard](https://github.com/enginehub/worldguard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
+- [CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
+
 
 # Resources
 
