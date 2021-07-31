@@ -128,6 +128,7 @@ _Map viewers._
 - [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
 - [dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
 - [Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface.
+- [Pl3xMap](https://github.com/pl3xgaming/Pl3xMap) - A minimalistic and lightweight live world map viewer.
 
 ## Other
 _Plugins that don't particularly fit in with any existing category._
