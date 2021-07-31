@@ -55,6 +55,7 @@ _Libraries that make it easier to work with configuration files._
 ## Inventories
 _Libraries for creating Minecraft GUIs using inventories._
 
+- [interfaces](https://github.com/Incendo/interfaces) - A Java user-interface library with support for Minecraft.
 - [IF](https://github.com/stefvanschie/IF) - An inventory framework for managing GUIs.
 - [InventoryGui](https://github.com/Phoenix616/InventoryGui) - A library for Bukkit plugins to create GUIs with inventories.
 
