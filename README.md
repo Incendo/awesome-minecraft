@@ -42,6 +42,7 @@ _Libraries that aid in the creation of Minecraft commands._
 
 - [ACF](https://github.com/aikar/commands) - Annotation based Java Command Dispatch Framework.
 - [Brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
+- [Chimera](https://github.com/Pante/chimera) - Command framework that does compile-time annotation processing and code generation for Bukkit plugins.
 - [Cloud](https://github.com/Incendo/Cloud) - Command framework & dispatcher for the JVM with support for builders, annotations and a Kotlin DSL.
 - [CommandAPI](https://github.com/JorelAli/CommandAPI) - A Bukkit-only API for the command UI introduced in Minecraft 1.13.
 - [Commodore](https://github.com/lucko/commodore) - Utility for using Minecraft's 1.13 'brigadier' library in Bukkit plugins.
@@ -54,6 +55,7 @@ _Libraries that make it easier to work with configuration files._
 ## Inventories
 _Libraries for creating Minecraft GUIs using inventories._
 
+- [interfaces](https://github.com/Incendo/interfaces) - A Java user-interface library with support for Minecraft.
 - [IF](https://github.com/stefvanschie/IF) - An inventory framework for managing GUIs.
 - [InventoryGui](https://github.com/Phoenix616/InventoryGui) - A library for Bukkit plugins to create GUIs with inventories.
 
@@ -76,6 +78,7 @@ _Libraries for interacting with the minecraft protocol._
 _Utilities that don't particularly belong in any other category._
 
 - [adventure-nbt](https://github.com/KyoriPowered/adventure/tree/master/nbt) - Library for working with NBT.
+- [Anvil](https://github.com/AnvilPowered/Anvil) - A cross-platform database API / ORM / entity framework with useful services for minecraft plugins
 - [BKCommonLib](https://github.com/bergerhealer/BKCommonLib) - An extensive library used in bergerhealer's plugins.
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
@@ -130,7 +133,9 @@ _Map viewers._
 ## Other
 _Plugins that don't particularly fit in with any existing category._
 
+- [DataSync](https://github.com/AnvilPowered/DataSync) - A minecraft plugin to synchronize and backup player data to a database
 - [NuVotifier](https://github.com/nuvotifier/NuVotifier) - A fork of Votifier, with more robust code and vote forwarding.
+- [OnTime](https://github.com/AnvilPowered/OnTime) - A cross-platform player time management plugin.
 - [Plan](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 - [spark](https://github.com/lucko/spark) - A performance profiling plugin based on sk89q's WarmRoast profiler.
 
@@ -173,7 +178,7 @@ _Plugins for managing and generating world regions._
 ## Blogs
 _Blogs related to Minecraft._
 
-- [Me4502](https://matthewmiller.dev/blog/category/minecraft/) - Me4502's blog with frequent posts relating to Minecraft development and server ownership.
+- [Me4502](https://madelinemiller.dev/blog/category/minecraft/) - Me4502's blog with frequent posts relating to Minecraft development and server ownership.
 
 ## Support
 _Support Resources for Minecraft._
