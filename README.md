@@ -140,6 +140,7 @@ _Plugins that don't particularly fit in with any existing category._
 - [OnTime](https://github.com/AnvilPowered/OnTime) - A cross-platform player time management plugin.
 - [Plan](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 - [spark](https://github.com/lucko/spark) - A performance profiling plugin based on sk89q's WarmRoast profiler.
+- [bStats](https://github.com/Bastian/bStats-Metrics) - Open source plugin metrics used worldwide.
 
 ### Bukkit
 
