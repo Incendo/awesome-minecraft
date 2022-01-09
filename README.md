@@ -110,6 +110,7 @@ _Mods meant to increase game performance._
 - [lithium-fabric](https://github.com/jellysquid3/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things.
 - [phosphor-fabric](https://github.com/jellysquid3/phosphor-fabric) - A Fabric mod designed to dramatically improve the performance of Minecraft's lighting engine while fixing many bugs.
 - [sodium-fabric](https://github.com/jellysquid3/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+- [Starlight](https://github.com/PaperMC/Starlight) - Rewrite of the light engine to fix lighting performance and lighting errors 
 
 # Plugins
 
