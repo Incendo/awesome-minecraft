@@ -188,6 +188,7 @@ _Support Resources for Minecraft._
 - [M.O.S.S.](https://discord.gg/PHpuzZS): home to a ton of open source, minecraft related projects (including factions, essentials, pex, and more).
 - [PaperMC](https://papermc.io) - [Discord](https://discord.gg/papermc), [Forums](https://papermc.io/forums/): official home of the paper project, where you can download paper, and receive support.
 - [Syscraft](https://syscraft.org) - [Subreddit](https://old.reddit.com/r/syscraft/), [Discord community](https://discord.gg/Dx6SSkx), and online resources for everyone involved in making Minecraft servers, from development to hosting to running servers.
+- Admincraft - [Subreddit](https://reddit.com/r/admincraft), [Discord](https://discord.gg/ve6mXTrTCK)
 
 ## Performance
 _Resources for Minecraft performance tuning._
