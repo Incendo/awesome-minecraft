@@ -30,7 +30,6 @@ Feel free to suggest more projects. Only suggest projects you'd recommend to a f
   - [Region Management](#region-and-world-management)
 - [Resources](#resources)
   - [Performance](#performance)
-  - [Protocol](#protocol)
 - [Software](#software)
   - [Tools](#tools)
   - [Proxy Software](#proxy-software)
