@@ -196,6 +196,9 @@ _Resources for Minecraft performance tuning._
 - [Krusic22's Flags](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc/) - Optimized JDK11+ & ZGC flags for Minecraft servers.
 - [StartMC](https://startmc.sh/) - Aikars flags script generator.
 
+## Protocol
+- [wiki.vg](https://wiki.vg) - Wiki.vg has documented the whole minecraft protocol for java and bedrock edition.
+
 # Software
 
 ## Proxy Software
