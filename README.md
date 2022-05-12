@@ -81,6 +81,7 @@ _Utilities that don't particularly belong in any other category._
 - [adventure-nbt](https://github.com/KyoriPowered/adventure/tree/master/nbt) - Library for working with NBT.
 - [Anvil](https://github.com/AnvilPowered/Anvil) - A cross-platform database API / ORM / entity framework with useful services for minecraft plugins
 - [BKCommonLib](https://github.com/bergerhealer/BKCommonLib) - An extensive library used in bergerhealer's plugins.
+- [eco](https://github.com/Auxilor/eco) - A plugin framework with many APIs and utilities to simplify development.
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
