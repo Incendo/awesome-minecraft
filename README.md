@@ -110,6 +110,7 @@ _Mods meant to increase game performance._
 - [lithium-fabric](https://github.com/jellysquid3/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things.
 - [phosphor-fabric](https://github.com/jellysquid3/phosphor-fabric) - A Fabric mod designed to dramatically improve the performance of Minecraft's lighting engine while fixing many bugs.
 - [sodium-fabric](https://github.com/jellysquid3/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+- [Starlight](https://github.com/PaperMC/Starlight) - Rewrite of the light engine to fix lighting performance and lighting errors 
 
 # Plugins
 
@@ -139,6 +140,7 @@ _Plugins that don't particularly fit in with any existing category._
 - [OnTime](https://github.com/AnvilPowered/OnTime) - A cross-platform player time management plugin.
 - [Plan](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 - [spark](https://github.com/lucko/spark) - A performance profiling plugin based on sk89q's WarmRoast profiler.
+- [bStats](https://github.com/Bastian/bStats-Metrics) - Open source plugin metrics used worldwide.
 
 ### Bukkit
 
@@ -221,3 +223,4 @@ _Miscellaneous tools._
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
+- [mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
