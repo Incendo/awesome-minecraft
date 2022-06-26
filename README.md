@@ -88,6 +88,7 @@ _Utilities that don't particularly belong in any other category._
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer/) - Renders Minecraft schematics into a web canvas.
 - [SquirrelID](https://github.com/EngineHub/SquirrelID/) - Library for working with Mojang profiles
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
+- [Mystral](https://github.com/Glyart/Mystral) - An efficient library to deal with relational databases quickly.
 
 # Mods
 
