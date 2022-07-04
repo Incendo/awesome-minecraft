@@ -155,6 +155,8 @@ _Plugins that don't particularly fit in with any existing category._
 ### Velocity
 
 - [Catalyst](https://github.com/AnvilPowered/Catalyst) - An essentials plugin for Minecraft proxies that will provide your server with a strong baseline; giving you all the useful commands you need.
+- [Message](https://github.com/OskarsMC-Plugins/message) - Cross Server Messaging Platform for Velocity
+- [Send](https://github.com/OskarsMC-Plugins/send) - Plugin to send players to servers on Velocity!
 
 ## Permissions
 _Plugins for user permission management._
