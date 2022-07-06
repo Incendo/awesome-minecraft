@@ -46,6 +46,7 @@ _Libraries that aid in the creation of Minecraft commands._
 - [Cloud](https://github.com/Incendo/Cloud) - Command framework & dispatcher for the JVM with support for builders, annotations and a Kotlin DSL.
 - [CommandAPI](https://github.com/JorelAli/CommandAPI) - A Bukkit-only API for the command UI introduced in Minecraft 1.13.
 - [Commodore](https://github.com/lucko/commodore) - Utility for using Minecraft's 1.13 'brigadier' library in Bukkit plugins.
+- [LiteCommands](https://github.com/Rollczi/LiteCommands) - Annotation based Command framework for Velocity, Bukkit, Paper, BungeeCord and your other implementations.
 
 ## Configuration
 _Libraries that make it easier to work with configuration files._
