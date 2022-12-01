@@ -139,6 +139,8 @@ _Plugins that don't particularly fit in with any existing category._
 - [OnTime](https://github.com/AnvilPowered/OnTime) - A cross-platform player time management plugin.
 - [Plan](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 - [spark](https://github.com/lucko/spark) - A performance profiling plugin based on sk89q's WarmRoast profiler.
+- [Connect](https://connect.minekube.com/) - Open shared Minecraft network for advertising public and local host servers
+
 
 ### Bukkit
 
@@ -207,6 +209,7 @@ _Minecraft server proxy software._
 - [Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
 - [Velocity](https://github.com/velocitypowered/velocity) - A Minecraft server proxy with unparalleled server support, scalability, and flexibility.
 - [Waterfall](https://github.com/papermc/waterfall) - BungeeCord fork that aims to improve performance and stability.
+- [Gate](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Golang
 
 ## Server Software
 _Minecraft server software._
