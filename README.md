@@ -139,6 +139,7 @@ _Plugins that don't particularly fit in with any existing category._
 - [OnTime](https://github.com/AnvilPowered/OnTime) - A cross-platform player time management plugin.
 - [Plan](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 - [spark](https://github.com/lucko/spark) - A performance profiling plugin based on sk89q's WarmRoast profiler.
+- [UnderscoreEnchants](https://github.com/RoughlyUnderscore/UnderscoreEnchants) - A free & open-sourced custom enchantments plugin that allows for user-made YAML enchantments.
 
 ### Bukkit
 
