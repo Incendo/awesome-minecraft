@@ -116,6 +116,7 @@ _Mods meant to increase game performance._
 ## Anti-Cheating
 
 - [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) - NoCheatPlus attempts to enforce "vanilla Minecraft" mechanics, as well as preventing players from abusing weaknesses in Minecraft or its protocol, making your server more safe.
+- [GrimAC](https://github.com/GrimAnticheat/Grim) - Fully async, multithreaded, predictive, open source anticheat.
 
 ## Building
 _Plugins that make building easier._
