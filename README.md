@@ -214,10 +214,12 @@ _Minecraft server software._
 - [Nukkit](https://github.com/CloudburstMC/Nukkit) - Server software for Minecraft: Bedrock Edition.
 - [Paper](https://github.com/papermc/paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
 - [Sponge](https://github.com/SpongePowered/Sponge) - A community-driven open source Minecraft: Java Edition modding platform.
+- [Purpur](https://purpurmc.org/) - A replacement for Paper with more configurability.
 
 ## Tools
 _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+- [PrismLauncher](https://prismlauncher.org/) - A community fork of MultiMC that includes additional features and quality of life improvements.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
