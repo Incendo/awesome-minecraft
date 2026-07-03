@@ -219,5 +219,6 @@ _Minecraft server software._
 _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
+- [BlockMosaic](https://mcimagetool.com) - Free browser-based tool that turns any image into Minecraft pixel art or map art, with a block shopping list and .litematic/.schem export.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
