@@ -220,4 +220,5 @@ _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+- [Minecraft IDs Dataset](https://github.com/lzx2494-sys/minecraft-ids-dataset) - Complete JSON dataset of every Minecraft item, block, entity, enchantment and effect ID, including pre-1.13 legacy numerical IDs.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
