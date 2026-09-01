@@ -220,4 +220,5 @@ _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+- [Onyx Launcher](https://github.com/lonestill/onyx-launcher) - Open-source desktop launcher for Windows and Linux with isolated instances, Modrinth integration, automatic Java, crash diagnostics, and safe backups.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
