@@ -220,4 +220,5 @@ _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+- [Minecraft-Youtube-Follower](https://github.com/GeiserX/Minecraft-Youtube-Follower) - A Docker-based system for 24/7 automated Minecraft server streaming with a Mineflayer spectator bot that follows players with a smart third-person camera.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
