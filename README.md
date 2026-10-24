@@ -219,5 +219,6 @@ _Minecraft server software._
 _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
+- [MCLQE](https://github.com/yezi-fak/MCLQE) - A modern cross-platform Minecraft launcher built with Java 21 + JavaFX, featuring a clean UI and one-click mod/version management.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
