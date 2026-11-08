@@ -219,5 +219,6 @@ _Minecraft server software._
 _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
+- [Minecraft Sound Browser](https://github.com/DverkaSK/minecraft-sound-browser) - An IntelliJ IDEA plugin to search and preview every vanilla Minecraft sound, with play buttons next to sound references in your code.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
