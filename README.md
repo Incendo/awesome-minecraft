@@ -219,5 +219,6 @@ _Minecraft server software._
 _Miscellaneous tools._
 
 - [Blockbench](https://github.com/JannisX11/blockbench) - Blockbench is a free, modern model editor for boxy models and pixel art textures.
+- [jdx](https://github.com/MohammadMD1383/jdx) - CLI and MCP server that answers IDE questions (members, method body, usages, call hierarchy, API diff) on JVM jars, including remapped Minecraft and mod jars.
 - [MultiMC](https://multimc.org/) - MultiMC is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [pakkit](https://github.com/Heath123/pakkit) - A packet monitor for Minecraft written in Electron.
